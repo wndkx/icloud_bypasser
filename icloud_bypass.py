@@ -2,8 +2,6 @@ import time
 import subprocess
 import sys
 import os
-print("Installing paramiko")
-os.system(f"{sys.executable} -m pip install paramiko")
 import paramiko
 RPORT = 44
 LPORT = 2222
