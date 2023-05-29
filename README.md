@@ -1,5 +1,5 @@
 # icloud_bypasser
-Bypass iCloud from iOS 12.3 - iOS 13.2.2
+Bypass iCloud from iOS 12.3 - now
 # Install
 * Clone repo via `git clone https://github.com/z3ven/icloud_bypasser/`
 * Run `./dependenences.sh`
