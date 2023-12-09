@@ -7,7 +7,7 @@ NOTE! SIM, iMessage, iCloud, Siri and Notifications will not work. If you are lu
 
 # Running
 Connect your device
-Type `python icloud_bypass.py` to run an exploit
+Type `sudo python icloud_bypass.py` to run an exploit
 
 Wait untill it writes connected and wait a little bit
 
@@ -15,3 +15,4 @@ It will remove Setup.app and you will go to lock screen
 
 # Issues
 On iPhones and iPads will not work: SIM, iCloud
+Works only on MAC
